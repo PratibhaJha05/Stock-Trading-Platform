@@ -18,7 +18,7 @@ function Pricing() {
                         </div>
                         <div className='col p-3 border'>
                             <h1 className='mb-3'>₹20</h1>
-                            <p>Intraday anf F&O</p>
+                            <p>Intraday and F&O</p>
                         </div>
                     </div>
                 </div>
