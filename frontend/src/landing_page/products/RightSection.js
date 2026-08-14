@@ -1,6 +1,6 @@
 import React from 'react';
 
-funstion RightSection() {
+function RightSection() {
     return (  
         <h1>Right Section</h1>
     );
